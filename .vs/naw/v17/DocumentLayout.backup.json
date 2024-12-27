@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\naw\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39A1EA4B-8724-4E5D-BB0B-D0CC90C95965}|naw\\naw.csproj|c:\\users\\hp\\source\\repos\\naw\\naw\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A1EA4B-8724-4E5D-BB0B-D0CC90C95965}|naw\\naw.csproj|solutionrelative:naw\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A1EA4B-8724-4E5D-BB0B-D0CC90C95965}|naw\\naw.csproj|c:\\users\\hp\\source\\repos\\naw\\naw\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A1EA4B-8724-4E5D-BB0B-D0CC90C95965}|naw\\naw.csproj|solutionrelative:naw\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A1EA4B-8724-4E5D-BB0B-D0CC90C95965}|naw\\naw.csproj|C:\\Users\\hp\\source\\repos\\naw\\naw\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A1EA4B-8724-4E5D-BB0B-D0CC90C95965}|naw\\naw.csproj|solutionrelative:naw\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A1EA4B-8724-4E5D-BB0B-D0CC90C95965}|naw\\naw.csproj|C:\\Users\\hp\\source\\repos\\naw\\naw\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39A1EA4B-8724-4E5D-BB0B-D0CC90C95965}|naw\\naw.csproj|solutionrelative:naw\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\naw\\naw\\Dashboard.cs",
+              "RelativeDocumentMoniker": "naw\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\naw\\naw\\Dashboard.cs",
+              "RelativeToolTip": "naw\\Dashboard.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:35:16.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\naw\\naw\\Dashboard.cs",
+              "RelativeDocumentMoniker": "naw\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\naw\\naw\\Dashboard.cs [Design]",
+              "RelativeToolTip": "naw\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T10:19:41.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\naw\\naw\\Main.cs",
+              "RelativeDocumentMoniker": "naw\\Main.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\naw\\naw\\Main.cs",
+              "RelativeToolTip": "naw\\Main.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:50:04.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\naw\\naw\\Main.cs",
+              "RelativeDocumentMoniker": "naw\\Main.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\naw\\naw\\Main.cs [Design]",
+              "RelativeToolTip": "naw\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:30:18.907Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
